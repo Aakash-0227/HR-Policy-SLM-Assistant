@@ -1,0 +1,23 @@
+[
+    {
+        "model": "Qwen/Qwen2.5-0.5B-Instruct",
+        "question": "How can an employee apply for sick leave?",
+        "answer": "An employee applying for sick leave typically follows these steps:\n\n1. **Review the Leave Policy**: Before starting the application process, it's important to understand the specific terms of your leave policy. This includes any eligibility criteria, duration of leave, and how you will be paid.\n\n2. **Complete the Application Form**: Fill out the leave application form provided by your employer. Make sure to include all necessary details such as the reason for the leave (e.g., illness, injury), the length of time you need to take off, and any documentation supporting your claim.\n\n3. **Submit the Application**: Submit the completed application form along with any required documents (such as medical records) through the designated online portal or in person at the workplace.\n\n4.",
+        "inference_time_seconds": 10.63,
+        "peak_gpu_memory_mb": 957.45
+    },
+    {
+        "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "question": "How can an employee apply for sick leave?",
+        "answer": "To apply for sick leave, an employee should follow the company's sick leave policy. Here are the steps to follow:\n\n1. Check the company's sick leave policy: The policy should be available on the company's website or in the employee handbook.\n\n2. Contact HR: If the policy is not available, the employee should contact HR to inquire about the sick leave policy.\n\n3. Provide the necessary information: The employee should provide their name, job title, and the reason for the sick leave.\n\n4. Provide the necessary documentation: If the employee is unable to provide the necessary documentation, they should provide a doctor's note or a self-certification form",
+        "inference_time_seconds": 8.58,
+        "peak_gpu_memory_mb": 2118.15
+    },
+    {
+        "model": "meta-llama/Llama-3.2-1B-Instruct",
+        "question": "How can an employee apply for sick leave?",
+        "answer": "As an HR assistant, I can guide you through the process.\n\nTo apply for sick leave, an employee can follow these steps:\n\n1. **Check the company's leave policy**: Before applying for sick leave, it's essential to review the company's leave policy to understand the specific procedures and requirements. You can usually find this information in the employee handbook or on the company's intranet.\n2. **Submit a request**: The employee should submit a written request for sick leave to their manager or HR representative, explaining the reason for their absence and the expected duration of the leave. The request should include the date(s) of the leave, the type of leave (sick leave, vacation leave, or personal leave), and any relevant medical documentation",
+        "inference_time_seconds": 8.41,
+        "peak_gpu_memory_mb": 2381.28
+    }
+]

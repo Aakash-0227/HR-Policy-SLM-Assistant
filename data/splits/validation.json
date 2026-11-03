@@ -1,0 +1,98 @@
+[
+    {
+        "id": "HR001",
+        "category": "leave_management",
+        "question": "How can an employee apply for sick leave?",
+        "answer": "Review the official sick leave policy, notify your manager as soon as possible, and submit a leave request through the approved HR process. Provide supporting documents if required by the policy."
+    },
+    {
+        "id": "HR035",
+        "category": "attendance",
+        "question": "Can I correct an attendance entry from a previous day?",
+        "answer": "Previous-day corrections may be allowed within a defined period. Submit the correction request through the attendance system and contact HR if the date is locked."
+    },
+    {
+        "id": "HR023",
+        "category": "leave_management",
+        "question": "What happens if I return from leave earlier than planned?",
+        "answer": "Inform your manager and HR about the revised return date. Update the leave request or attendance record according to the organization's procedure."
+    },
+    {
+        "id": "HR005",
+        "category": "leave_management",
+        "question": "What should I do if my leave request is rejected?",
+        "answer": "Review the reason for rejection and contact your manager or HR for clarification. You may submit a revised request according to the organization's leave policy."
+    },
+    {
+        "id": "HR063",
+        "category": "payroll",
+        "question": "What is payroll processing?",
+        "answer": "Payroll processing is the administrative process of calculating employee earnings, applicable deductions, and payments for a specific pay period."
+    },
+    {
+        "id": "HR052",
+        "category": "payroll",
+        "question": "What is gross salary?",
+        "answer": "Gross salary is the total salary amount before deductions. It may include basic pay and other eligible salary components."
+    },
+    {
+        "id": "HR088",
+        "category": "company_policies",
+        "question": "What is the workplace dress code?",
+        "answer": "Dress code requirements depend on the organization's workplace policy and role. Check the employee handbook or ask HR for the applicable guidelines."
+    },
+    {
+        "id": "HR092",
+        "category": "company_policies",
+        "question": "How should I handle confidential employee information?",
+        "answer": "Access confidential employee information only when authorized and use approved systems to store or share it. Follow the organization's privacy and information security policies."
+    },
+    {
+        "id": "HR061",
+        "category": "payroll",
+        "question": "What should I do if a reimbursement is rejected?",
+        "answer": "Review the rejection reason, check the expense policy and supporting documents, and contact the finance or HR team for guidance on whether a corrected request can be submitted."
+    },
+    {
+        "id": "HR097",
+        "category": "company_policies",
+        "question": "How can I report a violation of company policy?",
+        "answer": "Use the organization's official reporting or grievance channel. Provide factual details and follow the applicable investigation and reporting procedure."
+    },
+    {
+        "id": "HR037",
+        "category": "attendance",
+        "question": "What should I do if my attendance portal is unavailable?",
+        "answer": "Capture the relevant error details and inform IT or HR support. Follow the organization's alternative attendance reporting procedure."
+    },
+    {
+        "id": "HR100",
+        "category": "company_policies",
+        "question": "Who should I contact if I cannot find a company policy?",
+        "answer": "Contact the HR department or designated policy owner through an official communication channel. Request the latest approved version of the relevant policy."
+    },
+    {
+        "id": "HR043",
+        "category": "attendance",
+        "question": "Does attendance affect payroll?",
+        "answer": "Attendance records may be used in payroll calculations according to organizational policy. Contact payroll or HR to understand how a particular attendance issue affects your pay."
+    },
+    {
+        "id": "HR074",
+        "category": "onboarding",
+        "question": "What is a probation period?",
+        "answer": "A probation period is an initial employment period during which the organization reviews an employee's performance and suitability according to the employment agreement and applicable policy."
+    },
+    {
+        "id": "HR070",
+        "category": "onboarding",
+        "question": "What is an induction program?",
+        "answer": "An induction program introduces new employees to the organization, its workplace, teams, policies, tools, and responsibilities."
+    },
+    {
+        "id": "HR024",
+        "category": "leave_management",
+        "question": "How do I contact HR about a leave issue?",
+        "answer": "Use the organization's official HR email, employee portal, helpdesk, or designated HR representative. Include the leave dates and relevant request details."
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "id": "HR058",
+        "category": "payroll",
+        "question": "How can I update my tax declaration?",
+        "answer": "Use the organization's designated tax declaration or payroll portal. Check the applicable submission deadline and contact payroll if you need assistance."
+    },
+    {
+        "id": "HR075",
+        "category": "onboarding",
+        "question": "Who explains my job responsibilities after joining?",
+        "answer": "Your reporting manager or team lead generally explains your role, responsibilities, expectations, and initial work assignments. HR can help with employment-related questions."
+    },
+    {
+        "id": "HR039",
+        "category": "attendance",
+        "question": "What is a shift schedule?",
+        "answer": "A shift schedule defines an employee's assigned working days and hours. Check your employee portal or ask your manager for your current schedule."
+    },
+    {
+        "id": "HR096",
+        "category": "company_policies",
+        "question": "What should I do if two company documents contain different rules?",
+        "answer": "Do not assume which rule is correct. Contact HR and request confirmation of the latest approved policy document before acting."
+    },
+    {
+        "id": "HR055",
+        "category": "payroll",
+        "question": "How do I request a salary certificate?",
+        "answer": "Contact HR or payroll and submit a salary certificate request through the official process. Specify the purpose and any required format."
+    },
+    {
+        "id": "HR038",
+        "category": "attendance",
+        "question": "How can I check my working hours?",
+        "answer": "Review your timesheet or attendance records in the employee portal. Contact HR or your manager if recorded hours appear incorrect."
+    },
+    {
+        "id": "HR034",
+        "category": "attendance",
+        "question": "How do I report a late arrival?",
+        "answer": "Follow the organization's late-arrival reporting procedure and inform your manager when required. Review the attendance policy for applicable rules."
+    },
+    {
+        "id": "HR008",
+        "category": "leave_management",
+        "question": "How can I apply for maternity leave?",
+        "answer": "Contact HR to understand the applicable maternity leave policy, eligibility, documentation, and application procedure. Submit the required request through the official process."
+    },
+    {
+        "id": "HR013",
+        "category": "leave_management",
+        "question": "Can I modify the dates of an existing leave request?",
+        "answer": "Use the HR system to modify the request if editing is supported. Otherwise, contact your manager or HR and follow the process for changing leave dates."
+    },
+    {
+        "id": "HR026",
+        "category": "attendance",
+        "question": "How do I mark my attendance?",
+        "answer": "Use the organization's approved attendance system, such as an employee portal, biometric device, or designated application. Follow the official clock-in and clock-out procedure."
+    },
+    {
+        "id": "HR099",
+        "category": "company_policies",
+        "question": "Can I access company systems after leaving the organization?",
+        "answer": "System access after employment ends is governed by organizational security procedures. Do not attempt to access company systems without authorization."
+    },
+    {
+        "id": "HR053",
+        "category": "payroll",
+        "question": "What is net salary?",
+        "answer": "Net salary is the amount payable after applicable deductions are subtracted from gross salary."
+    },
+    {
+        "id": "HR050",
+        "category": "payroll",
+        "question": "How can I update my bank account details for salary?",
+        "answer": "Use the official employee portal or contact payroll and HR to follow the bank detail update procedure. Provide documents only through approved secure channels."
+    },
+    {
+        "id": "HR047",
+        "category": "payroll",
+        "question": "How can I report a salary discrepancy?",
+        "answer": "Contact the payroll or HR department with your payslip, relevant pay period, and a clear description of the discrepancy. Do not share sensitive financial information through unofficial channels."
+    },
+    {
+        "id": "HR068",
+        "category": "onboarding",
+        "question": "How do I access company email?",
+        "answer": "Follow the account setup instructions provided by IT or your onboarding coordinator. Never share your password or one-time authentication codes."
+    },
+    {
+        "id": "HR062",
+        "category": "payroll",
+        "question": "How can I get a copy of an old payslip?",
+        "answer": "Check the historical payslip section of the payroll portal. If older records are unavailable, contact payroll or HR and request a copy."
+    },
+    {
+        "id": "HR086",
+        "category": "company_policies",
+        "question": "What is the organization's data confidentiality policy?",
+        "answer": "Data confidentiality rules define how employees should protect company, customer, and personal information. Consult the official security and confidentiality policies for specific requirements."
+    },
+    {
+        "id": "HR025",
+        "category": "leave_management",
+        "question": "Can my manager reject a leave request?",
+        "answer": "Leave requests are handled according to organizational policy and approval rules. Ask your manager or HR for the reason if a request is rejected."
+    },
+    {
+        "id": "HR083",
+        "category": "company_policies",
+        "question": "What is an employee grievance?",
+        "answer": "An employee grievance is a workplace concern or complaint raised by an employee about working conditions, treatment, decisions, or other employment-related matters."
+    },
+    {
+        "id": "HR003",
+        "category": "leave_management",
+        "question": "How do I request annual leave?",
+        "answer": "Submit an annual leave request through the approved HR system or process. Check your available balance and obtain the required approval before making final travel arrangements."
+    },
+    {
+        "id": "HR015",
+        "category": "leave_management",
+        "question": "How can I check the status of my leave request?",
+        "answer": "Open the leave management section of your employee portal and review the request status. Contact your manager or HR if the status is unclear."
+    },
+    {
+        "id": "HR027",
+        "category": "attendance",
+        "question": "What should I do if I forget to clock in?",
+        "answer": "Notify your manager and submit an attendance correction or regularization request through the approved system. Follow the organization's correction procedure."
+    },
+    {
+        "id": "HR019",
+        "category": "leave_management",
+        "question": "What should I do if my leave balance is incorrect?",
+        "answer": "Compare the displayed balance with your leave history and approved requests. Report any discrepancy to HR with the relevant dates and request details."
+    },
+    {
+        "id": "HR017",
+        "category": "leave_management",
+        "question": "Can I withdraw a pending leave request?",
+        "answer": "Check whether your HR portal provides a withdrawal option. If not, contact your manager or HR and request cancellation through the approved process."
+    },
+    {
+        "id": "HR071",
+        "category": "onboarding",
+        "question": "How do I complete my joining formalities?",
+        "answer": "Follow the joining checklist shared by HR, complete the required forms, submit approved documents through secure channels, and attend any scheduled onboarding sessions."
+    },
+    {
+        "id": "HR091",
+        "category": "company_policies",
+        "question": "What is an information security policy?",
+        "answer": "An information security policy defines rules for protecting organizational systems, accounts, devices, and data from unauthorized access, misuse, or disclosure."
+    },
+    {
+        "id": "HR049",
+        "category": "payroll",
+        "question": "What are salary deductions?",
+        "answer": "Salary deductions are amounts subtracted from gross earnings according to applicable law, employment terms, or authorized arrangements. Review your payslip or contact payroll for details."
+    },
+    {
+        "id": "HR012",
+        "category": "leave_management",
+        "question": "How do I apply for half-day leave?",
+        "answer": "Check whether half-day leave is supported by the organization's leave system. Submit the request with the required date and time period and follow the approval process."
+    },
+    {
+        "id": "HR028",
+        "category": "attendance",
+        "question": "How can I correct a missed clock-out?",
+        "answer": "Report the missed clock-out to your manager or HR and submit a correction request with the accurate working time through the official attendance system."
+    },
+    {
+        "id": "HR031",
+        "category": "attendance",
+        "question": "Why is my attendance showing absent?",
+        "answer": "An absent status may result from a missing attendance entry, an unrecorded shift, or an incorrect system record. Check your attendance history and contact your manager or HR."
+    },
+    {
+        "id": "HR006",
+        "category": "leave_management",
+        "question": "Can I extend my approved leave?",
+        "answer": "Inform your manager before the approved leave period ends and submit an extension request through the official HR process. The extension is subject to policy and approval."
+    },
+    {
+        "id": "HR016",
+        "category": "leave_management",
+        "question": "Who approves employee leave requests?",
+        "answer": "Leave approval normally follows the organization's approval workflow, which may involve a reporting manager or HR. Check your employee handbook or HR system for the correct approver."
+    },
+    {
+        "id": "HR051",
+        "category": "payroll",
+        "question": "When will my salary be credited?",
+        "answer": "Salary credit dates depend on the organization's payroll calendar and banking processes. Check the official payroll communication or contact payroll for the scheduled date."
+    },
+    {
+        "id": "HR087",
+        "category": "company_policies",
+        "question": "Can I share company documents externally?",
+        "answer": "Do not share company documents externally unless you are authorized and the disclosure is permitted by organizational policy. Contact your manager or security team when uncertain."
+    },
+    {
+        "id": "HR030",
+        "category": "attendance",
+        "question": "How do I apply for attendance regularization?",
+        "answer": "Open the attendance section of the employee portal, select the incorrect date, provide the correct details and reason, and submit the request for approval."
+    },
+    {
+        "id": "HR002",
+        "category": "leave_management",
+        "question": "Where can I check my remaining leave balance?",
+        "answer": "Check the leave balance section of your employee self-service portal or HR system. If the information is unavailable or incorrect, contact HR."
+    },
+    {
+        "id": "HR021",
+        "category": "leave_management",
+        "question": "How do I request unpaid leave?",
+        "answer": "Contact your manager and HR to understand the unpaid leave policy, eligibility, and possible payroll impact. Submit a formal request through the approved process."
+    },
+    {
+        "id": "HR007",
+        "category": "leave_management",
+        "question": "What is emergency leave?",
+        "answer": "Emergency leave refers to time away from work for an urgent personal or family situation. Check the organization's policy and notify your manager or HR as soon as possible."
+    },
+    {
+        "id": "HR020",
+        "category": "leave_management",
+        "question": "Can I apply for leave in advance?",
+        "answer": "Many organizations allow advance leave requests. Submit your planned dates through the approved system and follow the organization's notice and approval requirements."
+    },
+    {
+        "id": "HR095",
+        "category": "company_policies",
+        "question": "How do I raise a policy clarification request?",
+        "answer": "Contact HR through the official helpdesk, email, or employee portal. Mention the policy topic and ask for the latest approved guidance."
+    },
+    {
+        "id": "HR044",
+        "category": "attendance",
+        "question": "How can I request correction of incorrect working hours?",
+        "answer": "Review your timesheet and submit an attendance correction request with the accurate working hours and supporting details through the approved process."
+    },
+    {
+        "id": "HR069",
+        "category": "onboarding",
+        "question": "How can I access the employee portal?",
+        "answer": "Use the official employee portal link and the login credentials or setup instructions provided by HR or IT. Contact support if you cannot sign in."
+    },
+    {
+        "id": "HR029",
+        "category": "attendance",
+        "question": "What is attendance regularization?",
+        "answer": "Attendance regularization is the process of requesting correction of an attendance record when a punch, clock-in, clock-out, or other attendance entry is missing or incorrect."
+    },
+    {
+        "id": "HR072",
+        "category": "onboarding",
+        "question": "What should I do if I have not received my offer letter?",
+        "answer": "Contact the recruitment or HR representative handling your application. Confirm your registered email address and ask whether any further action is required."
+    },
+    {
+        "id": "HR045",
+        "category": "payroll",
+        "question": "Where can I download my payslip?",
+        "answer": "Log in to the employee self-service or payroll portal and open the payslip section. Contact payroll or HR if the document is unavailable."
+    },
+    {
+        "id": "HR042",
+        "category": "attendance",
+        "question": "How do I report an attendance system error?",
+        "answer": "Contact the designated IT or HR helpdesk. Provide the error message, affected date, and relevant screenshots without sharing passwords."
+    },
+    {
+        "id": "HR041",
+        "category": "attendance",
+        "question": "What should I do if my attendance record shows the wrong shift?",
+        "answer": "Compare the recorded shift with your approved schedule and report the discrepancy to your manager or HR for correction."
+    },
+    {
+        "id": "HR064",
+        "category": "onboarding",
+        "question": "What documents are required when joining a company?",
+        "answer": "Required joining documents vary by organization. Common examples include identity proof, educational certificates, previous employment documents, and bank details. Confirm the exact checklist with HR."
+    },
+    {
+        "id": "HR033",
+        "category": "attendance",
+        "question": "What should I do if the biometric device is not working?",
+        "answer": "Inform your manager or IT and HR support teams. Follow the approved alternative attendance recording procedure until the device is working."
+    },
+    {
+        "id": "HR067",
+        "category": "onboarding",
+        "question": "Who should I contact on my first day?",
+        "answer": "Contact the HR representative or onboarding coordinator identified in your joining instructions. They can guide you through reporting, documentation, and initial activities."
+    },
+    {
+        "id": "HR056",
+        "category": "payroll",
+        "question": "How can I check my tax deductions?",
+        "answer": "Review the tax or deductions section of your payslip and the official payroll or tax portal. Contact payroll for clarification about amounts deducted."
+    },
+    {
+        "id": "HR082",
+        "category": "company_policies",
+        "question": "How do I report an ethical concern?",
+        "answer": "Use the organization's designated ethics reporting or grievance channel. Provide accurate information and follow the official reporting procedure."
+    },
+    {
+        "id": "HR010",
+        "category": "leave_management",
+        "question": "Can I take leave during my notice period?",
+        "answer": "Leave during a notice period depends on the employment agreement and company policy. Discuss the request with your manager and HR before making arrangements."
+    },
+    {
+        "id": "HR046",
+        "category": "payroll",
+        "question": "Why is my salary different this month?",
+        "answer": "Salary differences may result from attendance adjustments, approved leave, deductions, variable pay, or other payroll changes. Review your payslip and contact payroll for clarification."
+    },
+    {
+        "id": "HR081",
+        "category": "company_policies",
+        "question": "What is the company's work-from-home policy?",
+        "answer": "Work-from-home eligibility, approval, and attendance requirements depend on the organization's official policy. Consult the employee handbook or HR for the applicable rules."
+    },
+    {
+        "id": "HR090",
+        "category": "company_policies",
+        "question": "What should I do if I disagree with a workplace decision?",
+        "answer": "Discuss the concern respectfully with your manager or use the organization's grievance process. Contact HR if you need guidance on the appropriate escalation channel."
+    },
+    {
+        "id": "HR089",
+        "category": "company_policies",
+        "question": "How do I report a conflict of interest?",
+        "answer": "Disclose the potential conflict through the organization's designated manager, HR, or ethics reporting process. Follow the official conflict-of-interest policy."
+    },
+    {
+        "id": "HR066",
+        "category": "onboarding",
+        "question": "How do I receive my employee ID?",
+        "answer": "Employee IDs are generally created through the organization's onboarding process. Contact the HR or onboarding coordinator if you have not received yours."
+    },
+    {
+        "id": "HR076",
+        "category": "onboarding",
+        "question": "How do I find the employee handbook?",
+        "answer": "Check the official employee portal, onboarding materials, or internal knowledge repository. Contact HR if you cannot locate the latest approved handbook."
+    },
+    {
+        "id": "HR094",
+        "category": "company_policies",
+        "question": "What is the company's notice period policy?",
+        "answer": "The notice period is determined by the employment agreement and applicable organizational policy. Check your employment documents or contact HR for your specific requirements."
+    },
+    {
+        "id": "HR011",
+        "category": "leave_management",
+        "question": "What happens to unused leave?",
+        "answer": "Unused leave may be carried forward, encashed, or handled according to the organization's policy and applicable law. Contact HR for the rules that apply to you."
+    },
+    {
+        "id": "HR080",
+        "category": "company_policies",
+        "question": "What should I do if I experience workplace harassment?",
+        "answer": "Report the concern through the organization's designated complaint or grievance channel. Contact HR or the authorized committee and follow the applicable reporting procedure."
+    },
+    {
+        "id": "HR093",
+        "category": "company_policies",
+        "question": "Can employees use personal devices for company work?",
+        "answer": "Personal device usage depends on the organization's bring-your-own-device and security policies. Obtain approval from IT or your manager before accessing company information."
+    },
+    {
+        "id": "HR022",
+        "category": "leave_management",
+        "question": "Can I take consecutive days of leave?",
+        "answer": "Consecutive leave is subject to available leave balance, applicable policy, and approval. Submit the requested dates and confirm approval before taking leave."
+    },
+    {
+        "id": "HR048",
+        "category": "payroll",
+        "question": "What is a payslip?",
+        "answer": "A payslip is a document showing salary components, earnings, deductions, and the net amount payable for a particular pay period."
+    },
+    {
+        "id": "HR084",
+        "category": "company_policies",
+        "question": "How can I report a workplace safety issue?",
+        "answer": "Report the hazard promptly to your manager, facilities team, or designated safety representative. Follow emergency procedures if there is an immediate risk."
+    },
+    {
+        "id": "HR077",
+        "category": "onboarding",
+        "question": "How do I update my personal information after joining?",
+        "answer": "Use the employee self-service portal if available or contact HR. Follow the approved verification process before changing important personal details."
+    },
+    {
+        "id": "HR085",
+        "category": "company_policies",
+        "question": "What should I do if I lose my company ID card?",
+        "answer": "Report the loss to HR, security, or the designated facilities team immediately. Follow the organization's procedure for deactivation and replacement."
+    },
+    {
+        "id": "HR054",
+        "category": "payroll",
+        "question": "Why is my payslip not available?",
+        "answer": "The payslip may not yet have been published or there may be an access issue. Check the payroll portal again and contact payroll support if the problem continues."
+    }
+]

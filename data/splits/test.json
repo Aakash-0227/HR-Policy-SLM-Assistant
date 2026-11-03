@@ -1,0 +1,92 @@
+[
+    {
+        "id": "HR032",
+        "category": "attendance",
+        "question": "How can I view my attendance history?",
+        "answer": "Log in to the employee self-service portal and open the attendance or timesheet section. Select the relevant date range to review your records."
+    },
+    {
+        "id": "HR009",
+        "category": "leave_management",
+        "question": "How can I apply for paternity leave?",
+        "answer": "Contact HR or consult the employee handbook for the applicable paternity leave eligibility and procedure. Submit the request through the approved HR channel."
+    },
+    {
+        "id": "HR098",
+        "category": "company_policies",
+        "question": "What is an employee privacy policy?",
+        "answer": "An employee privacy policy explains how an organization collects, uses, stores, and protects employee personal information. Consult the official policy for specific rights and procedures."
+    },
+    {
+        "id": "HR004",
+        "category": "leave_management",
+        "question": "Can I cancel an approved leave request?",
+        "answer": "Contact your manager or HR and follow the official leave cancellation process. Update the request in the HR system if that option is available."
+    },
+    {
+        "id": "HR040",
+        "category": "attendance",
+        "question": "How do I request a shift change?",
+        "answer": "Discuss the proposed change with your manager and submit a request through the organization's scheduling or HR process. A shift change requires the appropriate approval."
+    },
+    {
+        "id": "HR059",
+        "category": "payroll",
+        "question": "What is a reimbursement?",
+        "answer": "A reimbursement is repayment of an eligible expense incurred by an employee on behalf of the organization, subject to policy, approval, and supporting documentation."
+    },
+    {
+        "id": "HR060",
+        "category": "payroll",
+        "question": "How do I check the status of a reimbursement?",
+        "answer": "Open the expense or reimbursement section of your employee portal and review the request status. Contact the finance or payroll team if more information is needed."
+    },
+    {
+        "id": "HR036",
+        "category": "attendance",
+        "question": "How is work-from-home attendance recorded?",
+        "answer": "Use the organization's approved remote attendance or timesheet system. Follow the instructions provided by your manager or HR."
+    },
+    {
+        "id": "HR078",
+        "category": "company_policies",
+        "question": "Where can I find company policies?",
+        "answer": "Check the official employee handbook, internal knowledge portal, or HR system. Contact HR if you cannot locate the latest approved policy document."
+    },
+    {
+        "id": "HR014",
+        "category": "leave_management",
+        "question": "What should I do if I become sick during a holiday?",
+        "answer": "Check the organization's sick leave policy to understand how illness during a holiday is handled. Notify your manager or HR and submit supporting information if required."
+    },
+    {
+        "id": "HR057",
+        "category": "payroll",
+        "question": "What should I do if my salary is not credited?",
+        "answer": "Check the scheduled payroll date and your bank account details. If the salary remains uncredited, contact payroll or HR through the official support channel."
+    },
+    {
+        "id": "HR079",
+        "category": "company_policies",
+        "question": "What is a code of conduct?",
+        "answer": "A code of conduct describes expected professional behaviour, ethical standards, workplace responsibilities, and rules employees are expected to follow."
+    },
+    {
+        "id": "HR073",
+        "category": "onboarding",
+        "question": "How can I get help setting up my work laptop?",
+        "answer": "Contact the IT helpdesk or onboarding coordinator for device setup instructions. Follow the organization's security and software installation guidelines."
+    },
+    {
+        "id": "HR018",
+        "category": "leave_management",
+        "question": "What documents are needed for sick leave?",
+        "answer": "Required documents depend on the organization's sick leave policy and the duration or circumstances of the absence. Ask HR which documents are applicable."
+    },
+    {
+        "id": "HR065",
+        "category": "onboarding",
+        "question": "What happens during employee onboarding?",
+        "answer": "Onboarding introduces a new employee to the organization, its policies, workplace tools, team, responsibilities, and required administrative procedures."
+    }
+]

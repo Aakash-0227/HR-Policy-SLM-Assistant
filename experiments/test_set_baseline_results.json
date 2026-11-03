@@ -1,0 +1,74 @@
+[
+    {
+        "model": "Qwen/Qwen2.5-0.5B-Instruct",
+        "status": "completed",
+        "results": [
+            {
+                "id": "HR001",
+                "category": "leave_management",
+                "question": "How can an employee apply for sick leave?",
+                "reference_answer": "An employee should review the organization's sick leave policy, inform the appropriate manager or HR representative, and submit a leave request through the approved process. Any required supporting documents should be provided according to the official policy. Contact HR if the procedure is unclear.",
+                "generated_answer": "An employee applying for sick leave should follow these steps:\n\n1. **Review the Leave Application Form**: The first step is to review the form provided by your employer. This document outlines the eligibility criteria, duration of leave, and any other relevant details.\n\n2. **Complete the Application**: After reviewing, you will need to complete the application form. Ensure all required fields are filled out accurately and completely.\n\n3. **Submit the Application**: Once completed, submit the application along with any necessary supporting documents such as medical records, proof of employment, and a copy of your ID if applicable.\n\n4. **",
+                "inference_time_seconds": 13.6,
+                "peak_gpu_memory_mb": 956.96
+            },
+            {
+                "id": "HR002",
+                "category": "leave_management",
+                "question": "Where can I check my remaining leave balance?",
+                "reference_answer": "Employees can check their available leave balance through the organization's employee portal or HR system, if available. If the information is unavailable or incorrect, contact the HR department for assistance.",
+                "generated_answer": "To check your remaining leave balance, you should typically visit the Human Resources (HR) department of your organization. They will have a dedicated section where you can view your current leave entitlements and any outstanding requests for additional time off. Additionally, many companies provide online tools or apps that allow you to manage your leave claims directly from your device.",
+                "inference_time_seconds": 6.21,
+                "peak_gpu_memory_mb": 955.8
+            }
+        ]
+    },
+    {
+        "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "status": "completed",
+        "results": [
+            {
+                "id": "HR001",
+                "category": "leave_management",
+                "question": "How can an employee apply for sick leave?",
+                "reference_answer": "An employee should review the organization's sick leave policy, inform the appropriate manager or HR representative, and submit a leave request through the approved process. Any required supporting documents should be provided according to the official policy. Contact HR if the procedure is unclear.",
+                "generated_answer": "To apply for sick leave, an employee should follow these steps:\n\n1. Contact HR: The first step is to contact HR to inquire about the company's sick leave policy. HR will provide you with the necessary information and guidance on how to apply for sick leave.\n\n2. Fill out the application form: HR will provide you with a form to fill out to apply for sick leave. The form should include the employee's name, job title, and department.\n\n3. Provide supporting documentation: If the employee needs to provide supporting",
+                "inference_time_seconds": 4.3,
+                "peak_gpu_memory_mb": 2118.12
+            },
+            {
+                "id": "HR002",
+                "category": "leave_management",
+                "question": "Where can I check my remaining leave balance?",
+                "reference_answer": "Employees can check their available leave balance through the organization's employee portal or HR system, if available. If the information is unavailable or incorrect, contact the HR department for assistance.",
+                "generated_answer": "To check your remaining leave balance, you can visit your company's HR department or contact HR directly. They will be able to provide you with the information you need. If you are unsure where to find your leave balance, you can ask your HR representative or manager for assistance.",
+                "inference_time_seconds": 1.93,
+                "peak_gpu_memory_mb": 2115.54
+            }
+        ]
+    },
+    {
+        "model": "meta-llama/Llama-3.2-1B-Instruct",
+        "status": "completed",
+        "results": [
+            {
+                "id": "HR001",
+                "category": "leave_management",
+                "question": "How can an employee apply for sick leave?",
+                "reference_answer": "An employee should review the organization's sick leave policy, inform the appropriate manager or HR representative, and submit a leave request through the approved process. Any required supporting documents should be provided according to the official policy. Contact HR if the procedure is unclear.",
+                "generated_answer": "To apply for sick leave, an employee can follow these steps:\n\n1. Review the company's sick leave policy to ensure they understand the eligibility criteria, duration of leave, and any required documentation.\n2. Notify their supervisor or HR representative as soon as possible, providing a doctor's note or a medical certificate if required.\n3. Submit the sick leave request through the company's HR portal or in person to the designated HR representative.\n4. The employee will receive a sick leave approval or denial, which may be based on the company's sick leave policy and the employee's eligibility.\n5. If approved",
+                "inference_time_seconds": 3.69,
+                "peak_gpu_memory_mb": 2380.71
+            },
+            {
+                "id": "HR002",
+                "category": "leave_management",
+                "question": "Where can I check my remaining leave balance?",
+                "reference_answer": "Employees can check their available leave balance through the organization's employee portal or HR system, if available. If the information is unavailable or incorrect, contact the HR department for assistance.",
+                "generated_answer": "To check your remaining leave balance, you can follow these steps:\n\n1. Log in to your employee portal or the company's intranet.\n2. Navigate to the \"My Leaves\" or \"Leave Balance\" section.\n3. Enter your employee ID and password to access your account.\n4. Review your leave balance, which should be displayed on the screen.\n\nIf you're having trouble accessing your account or need assistance, please contact HR for support.",
+                "inference_time_seconds": 2.46,
+                "peak_gpu_memory_mb": 2378.35
+            }
+        ]
+    }
+]

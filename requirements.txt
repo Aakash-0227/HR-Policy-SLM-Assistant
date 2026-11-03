@@ -1,0 +1,26 @@
+
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+# Deep Learning and SLM
+torch==2.11.0+cu128
+transformers==5.22.1
+datasets==5.1.0
+peft==0.21.2
+accelerate==1.15.0
+
+# Backend and API
+fastapi==0.162.0
+uvicorn==0.54.0
+pydantic==2.14.2
+
+# Frontend
+streamlit==1.66.1
+
+# Data Processing and Evaluation
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+
+# Utilities and Testing
+python-dotenv==1.2.4
+pytest==9.2.0

@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Model weights and large model files
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+
+# Trained LoRA adapter files
+experiments/lora_adapter/
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

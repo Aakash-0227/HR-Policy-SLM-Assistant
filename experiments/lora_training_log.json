@@ -1,0 +1,14 @@
+[
+    {
+        "epoch": 1,
+        "average_training_loss": 2.8470928599868994
+    },
+    {
+        "epoch": 2,
+        "average_training_loss": 2.3937137144199316
+    },
+    {
+        "epoch": 3,
+        "average_training_loss": 2.1240738975828974
+    }
+]
